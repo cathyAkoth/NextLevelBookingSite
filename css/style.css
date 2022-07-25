@@ -367,7 +367,7 @@ p {
   position: absolute;
   top: -5%;
   left: 0;
-  background-image: url("../image/line1.png");
+  /* background-image: url("../image/line1.png"); */
   background-size: cover;
   background-repeat: no-repeat;
   height: 50px;
@@ -379,7 +379,7 @@ p {
   position: absolute;
   bottom: -5%;
   left: 0;
-  background-image: url("../image/line2.png");
+  /* background-image: url("../image/line2.png"); */
   background-size: cover;
   background-repeat: no-repeat;
   height: 50px;
@@ -520,7 +520,7 @@ p {
 .room.wrapper2::after {
   display: none;
   top: 105%;
-  background-image: url("../image/line2.png");
+  /* background-image: url("../image/line2.png"); */
 }
 
 .grid2 {
@@ -560,24 +560,24 @@ p {
 }
 
 .timer.wrapper {
-  background-image: url("../image/side1.jpg");
+  /* background-image: url("../image/side1.jpg"); */
 }
 
 .timer.about::after {
   z-index: 1;
   top: 0%;
-  background-image: url("../image/line2.png");
+  /* background-image: url("../image/line2.png"); */
 }
 
 .timer.about::before {
   z-index: 1;
   bottom: 0%;
-  background-image: url("../image/line1.png");
+  /* background-image: url("../image/line1.png"); */
 }
 
 .timer h2,
 .timer h5 {
-  color: white;
+  color: #CC8C18;
   text-align: center;
 }
 
@@ -681,7 +681,7 @@ p {
 }
 
 .offer2.wrapper {
-  background-image: url("../image/w3.jpg");
+  /* background-image: url("../image/w3.jpg"); */
   height: 90vh;
   background-attachment: scroll;
 }
