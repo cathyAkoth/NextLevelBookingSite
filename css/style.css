@@ -161,6 +161,7 @@ header.sticky ul li a {
   .header .head_contact,
   .logo {
     display: none;
+   
   }
 
   /*------------head------------*/
@@ -1047,7 +1048,7 @@ footer .content {
   /*------------offer2------------*/
   /*------------customer------------*/
   .customer .mtop {
-    max-width: 100%;
+    max-width: 90%;
   }
 
   /*------------customer------------*/
