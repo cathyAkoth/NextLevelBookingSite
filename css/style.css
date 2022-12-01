@@ -563,7 +563,7 @@ p {
 }
 
 .timer.wrapper {
-  /* background-image: url("../image/side1.jpg"); */
+  background-image: url("../image/side1.jpg"); 
 }
 
 .timer.about::after {
